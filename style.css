@@ -1,0 +1,54 @@
+body{
+  margin:0;
+  font-family:Arial;
+}
+
+header{
+  background:#111;
+  color:white;
+  padding:15px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+
+nav a{
+  color:white;
+  text-decoration:none;
+  margin-left:15px;
+}
+
+.hero{
+  background:#333;
+  color:white;
+  text-align:center;
+  padding:100px 20px;
+}
+
+.hero button{
+  padding:10px 20px;
+  border:none;
+  background:gold;
+  cursor:pointer;
+}
+
+.about,
+.services,
+.contact{
+  padding:50px 20px;
+  text-align:center;
+}
+
+.box{
+  background:#f4f4f4;
+  padding:20px;
+  margin:15px auto;
+  width:200px;
+}
+
+footer{
+  background:#111;
+  color:white;
+  text-align:center;
+  padding:15px;
+}
