@@ -1,5 +1,5 @@
 function bookNow(){
 
-  alert("Thank you for contacting us!");
+  alert("Thank you for contacting Royal Palace Hotel!");
 
 }
